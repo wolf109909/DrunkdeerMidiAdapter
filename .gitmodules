@@ -1,0 +1,12 @@
+[submodule "hidapi"]
+	path = thirdparty/hidapi
+	url = https://github.com/signal11/hidapi.git
+[submodule "spdlog"]
+    path = thirdparty/spdlog
+    url = https://github.com/gabime/spdlog.git
+[submodule "libremidi"]
+    path = thirdparty/libremidi
+    url = https://github.com/jcelerier/libremidi.git
+[submodule "json"]
+    path = thirdparty/json
+    url = https://github.com/nlohmann/json.git
