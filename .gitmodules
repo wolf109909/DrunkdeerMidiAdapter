@@ -1,6 +1,6 @@
 [submodule "hidapi"]
 	path = thirdparty/hidapi
-	url = https://github.com/signal11/hidapi.git
+	url = https://github.com/libusb/hidapi.git
 [submodule "spdlog"]
     path = thirdparty/spdlog
     url = https://github.com/gabime/spdlog.git
